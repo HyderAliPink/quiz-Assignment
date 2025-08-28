@@ -216,7 +216,7 @@ function checkResult() {
     {PassFail === "Pass" ? (
       <h1>Congratulation! Tum pass ho gaye!</h1>
     ) : (
-      <h1>Lanat hai! Ye test bhi fail kar diya</h1>
+      <h1>Lanat hai!! Ye test bhi fail kar diya</h1>
     )}
   </div>
 ) : null}
